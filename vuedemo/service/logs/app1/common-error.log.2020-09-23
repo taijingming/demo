@@ -1,0 +1,87 @@
+2020-09-23 19:15:13,097 ERROR 3024 [-/127.0.0.1/-/349ms GET /userinfo] nodejs.ReferenceError: tctx is not defined
+    at UserController.userinfo (C:\Users\12552\Desktop\21cake\cake\server\app\controller\user.js:28:20)
+    at Object.callFn (C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8081","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3024
+hostname: DESKTOP-K5ULKD4
+
+2020-09-23 19:15:16,528 ERROR 3024 [-/127.0.0.1/-/1ms GET /userinfo] nodejs.ReferenceError: tctx is not defined
+    at UserController.userinfo (C:\Users\12552\Desktop\21cake\cake\server\app\controller\user.js:28:20)
+    at Object.callFn (C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8081","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3024
+hostname: DESKTOP-K5ULKD4
+
+2020-09-23 19:16:18,618 ERROR 3024 [-/127.0.0.1/-/1ms GET /userinfo] nodejs.ReferenceError: tctx is not defined
+    at UserController.userinfo (C:\Users\12552\Desktop\21cake\cake\server\app\controller\user.js:28:20)
+    at Object.callFn (C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:44:32)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8081","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3024
+hostname: DESKTOP-K5ULKD4
+
+2020-09-23 20:23:11,191 ERROR 17340 [-/127.0.0.1/-/50ms POST /register] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (C:\Users\12552\Desktop\21cake\cake\server\node_modules\mysql\lib\Pool.js:199:23)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\ali-rds\node_modules\pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (C:\Users\12552\Desktop\21cake\cake\server\node_modules\ali-rds\node_modules\pify\index.js:12:10)
+    at Pool.ret [as query] (C:\Users\12552\Desktop\21cake\cake\server\node_modules\ali-rds\node_modules\pify\index.js:56:34)
+    at RDSClient.proto._query (C:\Users\12552\Desktop\21cake\cake\server\node_modules\ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (C:\Users\12552\Desktop\21cake\cake\server\node_modules\ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (C:\Users\12552\Desktop\21cake\cake\server\node_modules\co\index.js:65:19)
+    at C:\Users\12552\Desktop\21cake\cake\server\node_modules\co\index.js:54:5
+    sql: insert into user (phone,pwd,birth,img) values ("18211111111","z111111","2020-09-25","http://127.0.0.1:7001/public/upload/8f8416a5-5684-49b2-8d17-a46e040669f9.jpg")
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'img' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "insert into user (phone,pwd,birth,img) values (\"18211111111\",\"z111111\",\"2020-09-25\",\"http://127.0.0.1:7001/public/upload/8f8416a5-5684-49b2-8d17-a46e040669f9.jpg\")"
+headers: {"Access-Control-Allow-Origin":"http://127.0.0.1:8081","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 17340
+hostname: DESKTOP-K5ULKD4
+
+2020-09-23 21:14:53,820 ERROR 16664 nodejs.ClusterClientNoResponseError: client no response in 2578616ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\12552\Desktop\21cake\cake\server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 16664
+hostname: DESKTOP-K5ULKD4
+

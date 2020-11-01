@@ -1,0 +1,77 @@
+.homebox .homeimg {
+    width: 100%;
+    height: 100%;
+}
+.homebox{
+    overflow: hidden;
+}
+
+.txtbox {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.txtbox .box1 {
+    font-size: 48px;
+    box-shadow: rgb(63, 63, 63) 5px 8px 20px 1px;
+}
+
+.txtbox .box2 {
+    font-size: 32px;
+}
+
+.ADbox {
+    width: 333px;
+    height: 280px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 33%;
+    right: 20%;
+}
+
+.ADbox .sonbox {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.ADbox span {
+    font-size: 11px;
+    padding: 1px 10px 1px 10px;
+    color: rgb(243, 42, 42);
+    border: 1px solid rgb(243, 42, 42);
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 8px;
+    position: absolute;
+
+}
+
+.ADbox .sonbox p {
+    color: white;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.ADbox .sonbox a {
+    font-size: 18px;
+    color: white;
+    background-color: rgb(0, 84, 234);
+    padding: 5px 50px 5px 50px;
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.ADbox p {
+    color: white;
+    font-size: 12px;
+    margin-top: 50px;
+}

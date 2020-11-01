@@ -1,0 +1,312 @@
+2020-09-21 13:39:57,210 INFO 18052 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53402793ms at 2020-09-22 04:30:00.003
+2020-09-21 13:39:57,210 INFO 18052 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37202790ms at 2020-09-22 00:00:00.000
+2020-09-21 13:39:57,211 INFO 18052 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37203790ms at 2020-09-22 00:00:01.001
+2020-09-21 13:39:57,042 INFO 11020 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 13:39:57,042 INFO 11020 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 13:39:57,042 INFO 11020 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 13:40:36,407 INFO 16056 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53363596ms at 2020-09-22 04:30:00.003
+2020-09-21 13:40:36,407 INFO 16056 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37163593ms at 2020-09-22 00:00:00.000
+2020-09-21 13:40:36,408 INFO 16056 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37164593ms at 2020-09-22 00:00:01.001
+2020-09-21 13:40:36,232 INFO 18856 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 13:40:36,232 INFO 18856 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 13:40:36,232 INFO 18856 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 13:42:31,455 INFO 16284 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 13:42:31,455 INFO 16284 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 13:42:31,455 INFO 16284 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:09:13,759 INFO 14236 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:09:13,759 INFO 14236 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:09:13,759 INFO 14236 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:09:13,957 INFO 19244 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 48046046ms at 2020-09-22 04:30:00.003
+2020-09-21 15:09:13,957 INFO 19244 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31846043ms at 2020-09-22 00:00:00.000
+2020-09-21 15:09:13,957 INFO 19244 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31847043ms at 2020-09-22 00:00:01.000
+2020-09-21 15:11:36,093 INFO 17812 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:11:36,093 INFO 17812 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:11:36,093 INFO 17812 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:16:30,811 INFO 18172 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:16:30,811 INFO 18172 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:16:30,811 INFO 18172 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:17:34,717 INFO 18680 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:17:34,717 INFO 18680 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:17:34,717 INFO 18680 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:47:30,167 INFO 15436 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:47:30,167 INFO 15436 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:47:30,167 INFO 15436 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:50:11,639 INFO 13096 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:50:11,639 INFO 13096 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:50:11,639 INFO 13096 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:50:23,934 INFO 17588 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45576069ms at 2020-09-22 04:30:00.003
+2020-09-21 15:50:23,935 INFO 17588 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 29376066ms at 2020-09-22 00:00:00.001
+2020-09-21 15:50:23,935 INFO 17588 [Timer] C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29377065ms at 2020-09-22 00:00:01.000
+2020-09-21 15:50:23,788 INFO 12884 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:50:23,788 INFO 12884 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:50:23,788 INFO 12884 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:51:38,718 INFO 14136 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:51:38,718 INFO 14136 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:51:38,718 INFO 14136 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 15:55:21,729 INFO 15580 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 15:55:21,729 INFO 15580 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 15:55:21,729 INFO 15580 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:02:57,398 INFO 12244 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:02:57,398 INFO 12244 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:02:57,398 INFO 12244 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:03:09,365 INFO 15400 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:03:09,365 INFO 15400 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:03:09,365 INFO 15400 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:08:28,111 INFO 11860 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:08:28,111 INFO 11860 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:08:28,111 INFO 11860 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:08:43,332 INFO 15900 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:08:43,332 INFO 15900 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:08:43,332 INFO 15900 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:09:10,755 INFO 17768 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:09:10,755 INFO 17768 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:09:10,755 INFO 17768 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:09:12,177 INFO 4964 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:09:12,177 INFO 4964 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:09:12,177 INFO 4964 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:09:25,943 INFO 17260 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:09:25,943 INFO 17260 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:09:25,943 INFO 17260 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:09:41,729 INFO 15984 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:09:41,729 INFO 15984 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:09:41,729 INFO 15984 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:09:47,378 INFO 8880 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:09:47,378 INFO 8880 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:09:47,378 INFO 8880 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:09:57,459 INFO 18120 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:09:57,459 INFO 18120 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:09:57,459 INFO 18120 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:10:03,321 INFO 11536 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:10:03,321 INFO 11536 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:10:03,321 INFO 11536 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:10:17,502 INFO 16532 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:10:17,502 INFO 16532 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:10:17,502 INFO 16532 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:10:20,303 INFO 9524 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:10:20,303 INFO 9524 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:10:20,303 INFO 9524 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:11:27,920 INFO 14832 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:11:27,920 INFO 14832 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:11:27,920 INFO 14832 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:11:37,856 INFO 14728 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:11:37,856 INFO 14728 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:11:37,856 INFO 14728 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:11:53,739 INFO 18268 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:11:53,739 INFO 18268 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:11:53,739 INFO 18268 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:12:12,378 INFO 12328 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:12:12,378 INFO 12328 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:12:12,378 INFO 12328 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:12:17,935 INFO 17028 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:12:17,935 INFO 17028 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:12:17,935 INFO 17028 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:12:58,701 INFO 11608 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:12:58,701 INFO 11608 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:12:58,701 INFO 11608 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:16:20,118 INFO 15544 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:16:20,118 INFO 15544 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:16:20,118 INFO 15544 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:23:14,343 INFO 20192 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:23:14,343 INFO 20192 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:23:14,343 INFO 20192 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-21 16:23:43,265 INFO 16756 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-21 16:23:43,265 INFO 16756 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-21 16:23:43,265 INFO 16756 [egg-schedule]: register schedule C:\Users\DELL\Desktop\cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:08:36,240 INFO 1828 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44483767ms at 2020-09-24 04:30:00.007
+2020-09-23 16:08:36,241 INFO 1828 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 28283760ms at 2020-09-24 00:00:00.001
+2020-09-23 16:08:36,241 INFO 1828 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28284759ms at 2020-09-24 00:00:01.000
+2020-09-23 16:08:35,923 INFO 20720 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:08:35,923 INFO 20720 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:08:35,923 INFO 20720 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:09:01,799 INFO 3952 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:09:01,799 INFO 3952 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:09:01,799 INFO 3952 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:09:31,564 INFO 10780 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:09:31,564 INFO 10780 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:09:31,564 INFO 10780 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:11:50,304 INFO 20716 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:11:50,304 INFO 20716 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:11:50,304 INFO 20716 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:12:27,179 INFO 8268 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:12:27,180 INFO 8268 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:12:27,180 INFO 8268 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:13:13,029 INFO 4316 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:13:13,029 INFO 4316 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:13:13,029 INFO 4316 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:15:13,689 INFO 13920 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:15:13,689 INFO 13920 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:15:13,689 INFO 13920 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:15:24,596 INFO 2692 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:15:24,596 INFO 2692 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:15:24,596 INFO 2692 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:15:58,544 INFO 20620 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:15:58,544 INFO 20620 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:15:58,544 INFO 20620 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:17:11,115 INFO 1872 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:17:11,115 INFO 1872 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:17:11,115 INFO 1872 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:24:28,862 INFO 19616 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:24:28,862 INFO 19616 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:24:28,862 INFO 19616 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:24:58,191 INFO 19020 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43501812ms at 2020-09-24 04:30:00.003
+2020-09-23 16:24:58,192 INFO 19020 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27301809ms at 2020-09-24 00:00:00.001
+2020-09-23 16:24:58,192 INFO 19020 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27302808ms at 2020-09-24 00:00:01.000
+2020-09-23 16:24:57,518 INFO 6008 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:24:57,518 INFO 6008 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:24:57,518 INFO 6008 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:30:51,574 INFO 20720 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:30:51,574 INFO 20720 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:30:51,574 INFO 20720 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:30:52,025 INFO 14556 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43147978ms at 2020-09-24 04:30:00.003
+2020-09-23 16:30:52,025 INFO 14556 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 26947975ms at 2020-09-24 00:00:00.000
+2020-09-23 16:30:52,025 INFO 14556 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26948975ms at 2020-09-24 00:00:01.000
+2020-09-23 16:48:57,919 INFO 17448 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:48:57,919 INFO 17448 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:48:57,919 INFO 17448 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:49:30,087 INFO 15264 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:49:30,087 INFO 15264 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:49:30,087 INFO 15264 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:50:00,070 INFO 7948 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:50:00,070 INFO 7948 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:50:00,070 INFO 7948 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:52:36,464 INFO 4884 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 16:52:36,464 INFO 4884 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 16:52:36,464 INFO 4884 [egg-schedule]: register schedule C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 16:52:36,978 INFO 10448 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41843026ms at 2020-09-24 04:30:00.003
+2020-09-23 16:52:36,978 INFO 10448 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25643022ms at 2020-09-24 00:00:00.000
+2020-09-23 16:52:36,978 INFO 10448 [Timer] C:\Users\17740\Desktop\app2\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25644022ms at 2020-09-24 00:00:01.000
+2020-09-23 17:35:30,948 INFO 17412 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 17:35:30,948 INFO 17412 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 17:35:30,948 INFO 17412 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 17:36:47,617 INFO 11156 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39192385ms at 2020-09-24 04:30:00.002
+2020-09-23 17:36:47,617 INFO 11156 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22992383ms at 2020-09-24 00:00:00.000
+2020-09-23 17:36:47,617 INFO 11156 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22993383ms at 2020-09-24 00:00:01.000
+2020-09-23 17:36:47,165 INFO 13264 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 17:36:47,165 INFO 13264 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 17:36:47,165 INFO 13264 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 17:39:16,225 INFO 5080 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 17:39:16,225 INFO 5080 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 17:39:16,225 INFO 5080 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 18:10:13,267 INFO 12204 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 18:10:13,267 INFO 12204 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 18:10:13,267 INFO 12204 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:00:26,080 INFO 17240 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:00:26,080 INFO 17240 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:00:26,080 INFO 17240 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:01:32,148 INFO 8280 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:01:32,148 INFO 8280 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:01:32,148 INFO 8280 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:05:38,723 INFO 13228 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:05:38,723 INFO 13228 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:05:38,723 INFO 13228 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:07:43,080 INFO 8232 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:07:43,080 INFO 8232 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:07:43,080 INFO 8232 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:09:31,648 INFO 11356 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:09:31,648 INFO 11356 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:09:31,648 INFO 11356 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:09:41,363 INFO 8716 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:09:41,363 INFO 8716 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:09:41,363 INFO 8716 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:10:02,203 INFO 18056 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33597801ms at 2020-09-24 04:30:00.004
+2020-09-23 19:10:02,203 INFO 18056 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17397797ms at 2020-09-24 00:00:00.000
+2020-09-23 19:10:02,204 INFO 18056 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17398796ms at 2020-09-24 00:00:01.000
+2020-09-23 19:10:01,839 INFO 11356 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:10:01,839 INFO 11356 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:10:01,839 INFO 11356 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:12:02,336 INFO 9532 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33477667ms at 2020-09-24 04:30:00.003
+2020-09-23 19:12:02,336 INFO 9532 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17277664ms at 2020-09-24 00:00:00.000
+2020-09-23 19:12:02,337 INFO 9532 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17278664ms at 2020-09-24 00:00:01.001
+2020-09-23 19:12:02,047 INFO 3024 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:12:02,047 INFO 3024 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:12:02,047 INFO 3024 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:16:25,298 INFO 14712 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:16:25,298 INFO 14712 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:16:25,298 INFO 14712 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:16:38,692 INFO 2860 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33201311ms at 2020-09-24 04:30:00.003
+2020-09-23 19:16:38,692 INFO 2860 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17001308ms at 2020-09-24 00:00:00.000
+2020-09-23 19:16:38,693 INFO 2860 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17002308ms at 2020-09-24 00:00:01.000
+2020-09-23 19:16:38,376 INFO 16572 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:16:38,377 INFO 16572 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:16:38,377 INFO 16572 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:17:54,383 INFO 4632 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:17:54,383 INFO 4632 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:17:54,383 INFO 4632 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:18:15,274 INFO 17984 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 33104728ms at 2020-09-24 04:30:00.002
+2020-09-23 19:18:15,274 INFO 17984 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 16904726ms at 2020-09-24 00:00:00.000
+2020-09-23 19:18:15,274 INFO 17984 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 16905726ms at 2020-09-24 00:00:01.000
+2020-09-23 19:18:14,949 INFO 16536 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:18:14,949 INFO 16536 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:18:14,949 INFO 16536 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:30:23,882 INFO 2860 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:30:23,882 INFO 2860 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:30:23,882 INFO 2860 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:31:51,384 INFO 19220 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:31:51,384 INFO 19220 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:31:51,384 INFO 19220 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:34:19,629 INFO 9016 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:34:19,629 INFO 9016 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:34:19,629 INFO 9016 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 19:36:55,566 INFO 19012 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 19:36:55,566 INFO 19012 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 19:36:55,566 INFO 19012 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 20:18:51,385 INFO 2708 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 20:18:51,386 INFO 2708 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 20:18:51,386 INFO 2708 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 20:20:10,421 INFO 16548 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 20:20:10,421 INFO 16548 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 20:20:10,421 INFO 16548 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 20:21:58,902 INFO 18980 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 20:21:58,902 INFO 18980 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 20:21:58,902 INFO 18980 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 20:22:12,946 INFO 16664 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29267056ms at 2020-09-24 04:30:00.002
+2020-09-23 20:22:12,946 INFO 16664 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 13067054ms at 2020-09-24 00:00:00.000
+2020-09-23 20:22:12,946 INFO 16664 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 13068054ms at 2020-09-24 00:00:01.000
+2020-09-23 20:22:12,646 INFO 17340 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 20:22:12,646 INFO 17340 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 20:22:12,646 INFO 17340 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 21:18:20,947 INFO 3928 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 21:18:20,947 INFO 3928 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 21:18:20,947 INFO 3928 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 21:22:36,928 INFO 20780 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 21:22:36,928 INFO 20780 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 21:22:36,928 INFO 20780 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 21:23:03,989 INFO 19984 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 21:23:03,989 INFO 19984 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 21:23:03,989 INFO 19984 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 21:27:19,107 INFO 17840 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 21:27:19,107 INFO 17840 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 21:27:19,107 INFO 17840 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 21:28:01,871 INFO 3976 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 21:28:01,871 INFO 3976 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 21:28:01,871 INFO 3976 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:35:00,077 INFO 12084 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:35:00,077 INFO 12084 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:35:00,077 INFO 12084 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:35:10,483 INFO 14040 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:35:10,483 INFO 14040 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:35:10,483 INFO 14040 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:51:32,586 INFO 13688 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:51:32,586 INFO 13688 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:51:32,586 INFO 13688 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:51:56,656 INFO 21044 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:51:56,656 INFO 21044 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:51:56,656 INFO 21044 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:53:17,843 INFO 18124 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:53:17,843 INFO 18124 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:53:17,843 INFO 18124 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:53:51,568 INFO 17972 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16568435ms at 2020-09-24 04:30:00.002
+2020-09-23 23:53:51,568 INFO 17972 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 368432ms at 2020-09-24 00:00:00.000
+2020-09-23 23:53:51,568 INFO 17972 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 369432ms at 2020-09-24 00:00:01.000
+2020-09-23 23:53:51,264 INFO 19448 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:53:51,264 INFO 19448 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:53:51,264 INFO 19448 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-23 23:55:25,166 INFO 7864 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-23 23:55:25,166 INFO 7864 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-23 23:55:25,166 INFO 7864 [egg-schedule]: register schedule C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-24 00:00:00,339 INFO 17972 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399664ms at 2020-09-25 00:00:00.003
+2020-09-24 00:00:00,337 INFO 7864 [Job#1600876800000538743055365001] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2020-09-24 00:00:00,375 INFO 7864 [Job#1600876800000538743055365001] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 10ms. 
+2020-09-24 00:00:01,001 INFO 7864 [Job#1600876801000538753050706001] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-09-24 00:00:01,137 INFO 7864 [Job#1600876801000538753050706001] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 136ms. 
+2020-09-24 00:00:01,002 INFO 17972 [Timer] C:\Users\12552\Desktop\21cake\cake\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86400000ms at 2020-09-25 00:00:01.002

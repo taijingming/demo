@@ -1,0 +1,33 @@
+.footerbox {
+    height: 140px;
+    background-color: rgb(233, 231, 231);
+    position: relative;
+}
+ .box {
+    margin-top: 20px;
+    position: absolute;
+    left: 20%;
+}
+
+.box .sonbox {
+    margin-top: 10px;
+}
+
+.imgbox {
+    position: absolute;
+    right: 303px;
+    bottom: 9px;
+}
+
+.footerimg1 {
+    width: 88px;
+    height: 54px;
+    position: absolute;
+    top: -15px;
+    left: -10px;
+}
+
+.footerimg2 {
+    height: 110px;
+    margin-left: 95px;
+} 

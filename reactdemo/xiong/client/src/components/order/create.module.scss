@@ -1,0 +1,53 @@
+.mycreate{
+    margin-left: -350px;
+    padding: 20px 150px 20px 100px ;
+   
+}
+.ulbox{
+    margin-left: 300px;
+    display: flex;
+    // padding: 10px 25px;
+    li{
+        list-style: none;
+        margin: 10px;
+        padding: 15px 0;
+        p{
+            margin: 0px 10px 50px 0;
+            width: 90px;
+        }
+        button{
+            margin: 2px 5px;
+        }
+    }
+}
+.qianshou{
+    display: flex;
+    margin-top: 10px ;
+}
+.fahuo{
+    margin-top: 15px;
+}
+.next{
+    margin-left: 600px;
+    span{
+        display: inline-block;
+        padding: 0 60px;
+        font-weight: 700;
+    }
+    border-radius: 5px;
+}
+.quality{
+    margin-top: 31px;
+}
+.need{
+    margin-top: 7px !important;
+}
+.myloader{
+   font-size: 18px;
+}
+.list1{
+    ul{
+        margin-bottom: 20px !important;
+        margin-top: -10px !important;
+    }
+}

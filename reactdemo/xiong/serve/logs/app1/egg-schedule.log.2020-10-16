@@ -1,0 +1,225 @@
+2020-10-16 12:23:02,054 INFO 1236 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:23:02,054 INFO 1236 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:23:02,054 INFO 1236 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:23:03,891 INFO 12480 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 58016111ms at 2020-10-17 04:30:00.002
+2020-10-16 12:23:03,892 INFO 12480 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 41816109ms at 2020-10-17 00:00:00.001
+2020-10-16 12:23:03,892 INFO 12480 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 41817108ms at 2020-10-17 00:00:01.000
+2020-10-16 12:23:41,728 INFO 10904 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:23:41,729 INFO 10904 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:23:41,729 INFO 10904 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:24:28,121 INFO 14700 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:24:28,121 INFO 14700 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:24:28,121 INFO 14700 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:25:48,679 INFO 4636 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:25:48,679 INFO 4636 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:25:48,679 INFO 4636 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:26:47,044 INFO 13376 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 57792959ms at 2020-10-17 04:30:00.003
+2020-10-16 12:26:47,044 INFO 13376 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 41592956ms at 2020-10-17 00:00:00.000
+2020-10-16 12:26:47,044 INFO 13376 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 41593956ms at 2020-10-17 00:00:01.000
+2020-10-16 12:26:46,776 INFO 1440 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:26:46,776 INFO 1440 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:26:46,776 INFO 1440 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:28:29,399 INFO 12744 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:28:29,399 INFO 12744 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:28:29,399 INFO 12744 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:31:31,275 INFO 7520 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:31:31,276 INFO 7520 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:31:31,276 INFO 7520 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:40:09,669 INFO 12564 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:40:09,669 INFO 12564 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:40:09,669 INFO 12564 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:42:41,552 INFO 11760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:42:41,552 INFO 11760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:42:41,552 INFO 11760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:43:04,838 INFO 15308 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:43:04,838 INFO 15308 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:43:04,838 INFO 15308 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:45:54,271 INFO 15036 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:45:54,271 INFO 15036 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:45:54,271 INFO 15036 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:46:08,433 INFO 15984 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 56631570ms at 2020-10-17 04:30:00.003
+2020-10-16 12:46:08,433 INFO 15984 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 40431567ms at 2020-10-17 00:00:00.000
+2020-10-16 12:46:08,434 INFO 15984 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 40432567ms at 2020-10-17 00:00:01.001
+2020-10-16 12:46:08,156 INFO 7648 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:46:08,156 INFO 7648 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:46:08,156 INFO 7648 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:49:56,256 INFO 15356 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:49:56,256 INFO 15356 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:49:56,256 INFO 15356 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:53:17,009 INFO 12540 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:53:17,009 INFO 12540 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:53:17,009 INFO 12540 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:53:18,624 INFO 10452 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:53:18,624 INFO 10452 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:53:18,624 INFO 10452 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:53:55,915 INFO 12548 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:53:55,915 INFO 12548 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:53:55,915 INFO 12548 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:55:42,009 INFO 10752 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:55:42,009 INFO 10752 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:55:42,009 INFO 10752 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 12:57:18,858 INFO 13288 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 12:57:18,858 INFO 13288 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 12:57:18,858 INFO 13288 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 13:07:52,357 INFO 14060 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 13:07:52,357 INFO 14060 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 13:07:52,357 INFO 14060 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:25:58,460 INFO 2456 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:25:58,460 INFO 2456 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:25:58,460 INFO 2456 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:29:04,900 INFO 9068 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:29:04,900 INFO 9068 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:29:04,900 INFO 9068 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:29:33,255 INFO 7760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:29:33,255 INFO 7760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:29:33,255 INFO 7760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:29:42,441 INFO 10704 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:29:42,441 INFO 10704 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:29:42,441 INFO 10704 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:29:56,902 INFO 9632 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:29:56,902 INFO 9632 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:29:56,902 INFO 9632 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:29:58,502 INFO 4480 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:29:58,502 INFO 4480 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:29:58,502 INFO 4480 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:30:03,215 INFO 9168 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:30:03,216 INFO 9168 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:30:03,216 INFO 9168 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:31:40,760 INFO 5904 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:31:40,760 INFO 5904 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:31:40,760 INFO 5904 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:32:06,560 INFO 14196 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:32:06,560 INFO 14196 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:32:06,560 INFO 14196 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:49:53,307 INFO 17368 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:49:53,307 INFO 17368 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:49:53,307 INFO 17368 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:49:54,830 INFO 8692 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:49:54,830 INFO 8692 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:49:54,830 INFO 8692 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:51:16,931 INFO 17384 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 45523072ms at 2020-10-17 04:30:00.003
+2020-10-16 15:51:16,931 INFO 17384 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 29323069ms at 2020-10-17 00:00:00.000
+2020-10-16 15:51:16,931 INFO 17384 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 29324069ms at 2020-10-17 00:00:01.000
+2020-10-16 15:51:16,673 INFO 17280 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:51:16,673 INFO 17280 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:51:16,673 INFO 17280 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:54:26,025 INFO 13192 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:54:26,025 INFO 13192 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:54:26,025 INFO 13192 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:56:40,073 INFO 11896 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:56:40,073 INFO 11896 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:56:40,073 INFO 11896 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:57:53,177 INFO 7944 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:57:53,177 INFO 7944 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:57:53,177 INFO 7944 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:59:03,451 INFO 16800 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:59:03,451 INFO 16800 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:59:03,451 INFO 16800 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 15:59:37,736 INFO 17392 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 15:59:37,736 INFO 17392 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 15:59:37,736 INFO 17392 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:00:56,166 INFO 16380 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:00:56,166 INFO 16380 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:00:56,167 INFO 16380 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:01:33,708 INFO 13520 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44906294ms at 2020-10-17 04:30:00.002
+2020-10-16 16:01:33,709 INFO 13520 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 28706292ms at 2020-10-17 00:00:00.001
+2020-10-16 16:01:33,709 INFO 13520 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28707291ms at 2020-10-17 00:00:01.000
+2020-10-16 16:01:33,442 INFO 4756 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:01:33,442 INFO 4756 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:01:33,442 INFO 4756 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:02:11,205 INFO 12916 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:02:11,205 INFO 12916 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:02:11,205 INFO 12916 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:04:55,112 INFO 7876 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:04:55,112 INFO 7876 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:04:55,112 INFO 7876 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:04:56,587 INFO 11036 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:04:56,587 INFO 11036 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:04:56,587 INFO 11036 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:07:16,101 INFO 14440 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44563902ms at 2020-10-17 04:30:00.003
+2020-10-16 16:07:16,101 INFO 14440 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 28363899ms at 2020-10-17 00:00:00.000
+2020-10-16 16:07:16,102 INFO 14440 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 28364899ms at 2020-10-17 00:00:01.001
+2020-10-16 16:07:15,849 INFO 1956 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:07:15,849 INFO 1956 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:07:15,849 INFO 1956 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:11:53,996 INFO 17120 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:11:53,996 INFO 17120 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:11:53,996 INFO 17120 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:17:13,362 INFO 7488 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:17:13,362 INFO 7488 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:17:13,362 INFO 7488 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:17:38,610 INFO 544 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43941392ms at 2020-10-17 04:30:00.002
+2020-10-16 16:17:38,611 INFO 544 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 27741390ms at 2020-10-17 00:00:00.001
+2020-10-16 16:17:38,611 INFO 544 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27742389ms at 2020-10-17 00:00:01.000
+2020-10-16 16:17:38,354 INFO 9520 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:17:38,354 INFO 9520 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:17:38,354 INFO 9520 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:20:52,686 INFO 4364 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:20:52,686 INFO 4364 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:20:52,686 INFO 4364 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:21:13,156 INFO 17176 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43726847ms at 2020-10-17 04:30:00.003
+2020-10-16 16:21:13,156 INFO 17176 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 27526844ms at 2020-10-17 00:00:00.000
+2020-10-16 16:21:13,157 INFO 17176 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27527844ms at 2020-10-17 00:00:01.001
+2020-10-16 16:21:12,878 INFO 12816 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:21:12,878 INFO 12816 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:21:12,878 INFO 12816 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:22:15,536 INFO 2492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:22:15,536 INFO 2492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:22:15,536 INFO 2492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:23:54,275 INFO 11792 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:23:54,275 INFO 11792 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:23:54,275 INFO 11792 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:31:07,388 INFO 9492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:31:07,388 INFO 9492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:31:07,388 INFO 9492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:32:06,216 INFO 8760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:32:06,216 INFO 8760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:32:06,216 INFO 8760 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:37:18,700 INFO 9492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:37:18,700 INFO 9492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:37:18,700 INFO 9492 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:38:30,793 INFO 1188 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:38:30,793 INFO 1188 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:38:30,793 INFO 1188 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:39:44,025 INFO 17296 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 42615978ms at 2020-10-17 04:30:00.003
+2020-10-16 16:39:44,026 INFO 17296 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 26415975ms at 2020-10-17 00:00:00.000
+2020-10-16 16:39:44,026 INFO 17296 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 26416974ms at 2020-10-17 00:00:01.000
+2020-10-16 16:39:43,765 INFO 4324 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:39:43,765 INFO 4324 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:39:43,765 INFO 4324 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:39:56,849 INFO 16744 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:39:56,849 INFO 16744 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:39:56,849 INFO 16744 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:41:07,078 INFO 2708 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:41:07,078 INFO 2708 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:41:07,078 INFO 2708 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:42:27,154 INFO 11900 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:42:27,154 INFO 11900 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:42:27,154 INFO 11900 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:44:20,833 INFO 16128 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:44:20,833 INFO 16128 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:44:20,833 INFO 16128 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:45:05,019 INFO 17068 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:45:05,019 INFO 17068 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:45:05,019 INFO 17068 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 16:46:37,080 INFO 16300 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 16:46:37,080 INFO 16300 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 16:46:37,080 INFO 16300 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 20:10:40,673 INFO 13996 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 29959330ms at 2020-10-17 04:30:00.003
+2020-10-16 20:10:40,673 INFO 13996 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 13759327ms at 2020-10-17 00:00:00.000
+2020-10-16 20:10:40,673 INFO 13996 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 13760327ms at 2020-10-17 00:00:01.000
+2020-10-16 20:10:40,420 INFO 15812 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 20:10:40,420 INFO 15812 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 20:10:40,420 INFO 15812 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-16 21:10:35,535 INFO 11760 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 26364467ms at 2020-10-17 04:30:00.002
+2020-10-16 21:10:35,535 INFO 11760 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 10164465ms at 2020-10-17 00:00:00.000
+2020-10-16 21:10:35,535 INFO 11760 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 10165465ms at 2020-10-17 00:00:01.000
+2020-10-16 21:10:35,216 INFO 17196 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-10-16 21:10:35,216 INFO 17196 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-10-16 21:10:35,216 INFO 17196 [egg-schedule]: register schedule C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-10-17 00:00:00,033 INFO 17196 [Job#1602864000006543666243876991] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js executing by app
+2020-10-17 00:00:00,375 INFO 17196 [Job#1602864000006543666243876991] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js execute succeed, used 340ms. 
+2020-10-17 00:00:00,014 INFO 11760 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 86399991ms at 2020-10-18 00:00:00.004
+2020-10-17 00:00:01,006 INFO 17196 [Job#1602864001001543676194937001] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-10-17 00:00:01,125 INFO 17196 [Job#1602864001001543676194937001] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 119ms. 
+2020-10-17 00:00:01,009 INFO 11760 [Timer] C:\Users\12552\Desktop\dada\serve\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399997ms at 2020-10-18 00:00:01.006

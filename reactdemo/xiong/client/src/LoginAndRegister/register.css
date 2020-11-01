@@ -1,0 +1,19 @@
+/* .redisterboxTop{
+    width:100%;
+    height: 800px;
+     background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603103173496&di=6b1c739c5b5850225a41a3ea8144861c&imgtype=0&src=http%3A%2F%2Fi1.sinaimg.cn%2FIT%2F2010%2F0419%2F201041993511.jpg');
+    /* background-repeat: no-repeat; */
+/* }  */
+.redisterbox{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+   
+}
+.registercss{
+    color: red;
+}
+.verifimg{
+    width: 60px;
+    height: 30px;
+}

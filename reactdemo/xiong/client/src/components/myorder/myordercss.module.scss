@@ -1,0 +1,33 @@
+
+.box{
+    font-size: 14px;
+    max-width: 970px;
+    margin: 10px auto;
+    min-height: 300px;
+    overflow: hidden;
+    padding: 5px 10px ;
+    box-sizing: border-box;
+}
+.nav{
+    padding: 20px 15px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.right{
+    display: flex;
+}
+.inp1{
+    height: 40.5px;
+}
+.title{
+    font-weight: 700;
+}
+.title+p{
+    margin-top: 15px;
+    text-align: center;
+    padding: 15px;
+}
+.box1{
+    display: flex;
+}

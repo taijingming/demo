@@ -1,0 +1,17 @@
+.loginboxTop{
+    width: 400px;
+    margin: 0 auto;
+    background-color: silver;
+}
+
+.loginbox{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+   
+}
+.loginboxuser{
+    /* width: 300px; */
+    margin:0 auto;
+    margin-top: 20px;
+}
