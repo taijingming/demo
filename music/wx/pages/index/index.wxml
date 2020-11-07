@@ -1,0 +1,83 @@
+<view class="box">
+<!-- 轮播图模块 -->
+  <swiper indicator-dots indicator-color="ivory"
+  circular="true"
+  indicator-active-color="#d43a33"
+   autoplay="true" class="swiperbox">
+   <block wx:for="{{bannerlist.banners}}" wx:key="index">
+      <swiper-item>
+        <image src="{{item.pic}}"></image>
+      </swiper-item>
+    </block>
+  </swiper>  
+  <!-- 五个图标导航 -->
+  <view class="navbox">
+    <view class="navItem">
+      <text class="icon-dianzan2 iconfont"></text>
+      <text>每日推介</text>
+    </view>
+    <view class="navItem">
+      <text class="iconfont icon-diantai1"></text>
+      <text>歌单</text>
+    </view>
+    <view class="navItem">
+      <text class="iconfont icon-biaoshengci-weixuanzhong"></text>
+      <text>排行榜</text>
+    </view>
+    <view class="navItem">
+      <text class="iconfont icon-diantai1"></text>
+      <text>电台</text>
+    </view>
+    <view class="navItem">
+      <text class="iconfont icon-zhibobofangshexiangjitianxianxianxing"></text>
+      <text>直播</text>
+    </view>
+  </view>
+  <!-- 推介歌曲头部 -->
+  <view class="recommend">
+    <!-- <text>推荐歌曲</text> -->
+    <navHeader title="推荐歌单" nav="人气歌单推荐"></navHeader>
+  </view>
+  <!--  推介歌曲内容区 -->
+  <scroll-view enable-flex  class="rec-content" scroll-x>
+    <block wx:for="{{recommendlist}}" wx:key="index">
+      <view class="scrollItem">
+        <image src="{{item.picUrl}}"></image>
+        <text class="scor-desc">{{item.name}}</text>
+        <view class="re-count">
+          <text class="iconfont icon-bofang4"></text>
+          <text>{{item.playCount}}</text>
+        </view>
+      </view>
+    </block>
+  </scroll-view>
+  <!-- 排行榜区域 -->
+  <view>
+    <navHeader title="排行榜" nav="热歌风向标"></navHeader>
+    <!-- 排行榜内容 -->
+    <swiper class="bangSwiper" circular
+    previous-margin="50rpx"
+    next-margin="50rpx">
+      <swiper-item >
+        <view class="bangItem">
+        <view class="bang-title">云音乐热歌榜</view>
+        <view class="hotSong">
+          <image src="/static/image/0.jpg"></image>
+          <text class="bang-count">1</text>
+          <text class="musicName">{{item.songName}}</text>
+        </view>
+        <view class="hotSong">
+          <image src="/static/image/0.jpg"></image>
+          <text class="bang-count">1</text>
+          <text class="musicName">清河</text>
+        </view>
+        <view class="hotSong">
+          <image src="/static/image/0.jpg"></image>
+          <text class="bang-count">1</text>
+          <text class="musicName">清河</text>
+        </view>
+      </view>
+      </swiper-item> 
+    </swiper>
+  </view>
+</view>

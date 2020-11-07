@@ -1,0 +1,78 @@
+2020-11-06 13:22:41,261 INFO 2748 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 54438742ms at 2020-11-07 04:30:00.003
+2020-11-06 13:22:41,262 INFO 2748 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 38238739ms at 2020-11-07 00:00:00.001
+2020-11-06 13:22:41,262 INFO 2748 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 38239738ms at 2020-11-07 00:00:01.000
+2020-11-06 13:22:40,928 INFO 12772 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 13:22:40,928 INFO 12772 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 13:22:40,928 INFO 12772 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 13:25:35,442 INFO 21668 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 13:25:35,442 INFO 21668 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 13:25:35,442 INFO 21668 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 13:25:37,657 INFO 10204 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 13:25:37,657 INFO 10204 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 13:25:37,657 INFO 10204 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 13:26:39,972 INFO 21748 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 54200030ms at 2020-11-07 04:30:00.002
+2020-11-06 13:26:39,972 INFO 21748 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 38000028ms at 2020-11-07 00:00:00.000
+2020-11-06 13:26:39,973 INFO 21748 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 38001028ms at 2020-11-07 00:00:01.001
+2020-11-06 13:26:39,699 INFO 7424 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 13:26:39,699 INFO 7424 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 13:26:39,699 INFO 7424 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 13:31:24,112 INFO 22408 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 13:31:24,112 INFO 22408 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 13:31:24,112 INFO 22408 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 13:31:37,309 INFO 7500 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 53902693ms at 2020-11-07 04:30:00.002
+2020-11-06 13:31:37,310 INFO 7500 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 37702691ms at 2020-11-07 00:00:00.001
+2020-11-06 13:31:37,310 INFO 7500 [Timer] C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37703690ms at 2020-11-07 00:00:01.000
+2020-11-06 13:31:37,035 INFO 9244 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 13:31:37,035 INFO 9244 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 13:31:37,035 INFO 9244 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:33:13,689 INFO 21660 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:33:13,689 INFO 21660 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:33:13,689 INFO 21660 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:33:21,170 INFO 20324 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:33:21,170 INFO 20324 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:33:21,170 INFO 20324 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:33:25,607 INFO 19400 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:33:25,607 INFO 19400 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:33:25,607 INFO 19400 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:33:27,533 INFO 23024 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:33:27,533 INFO 23024 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:33:27,533 INFO 23024 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:41:37,964 INFO 15780 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:41:37,964 INFO 15780 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:41:37,964 INFO 15780 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:41:47,532 INFO 22952 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:41:47,532 INFO 22952 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:41:47,532 INFO 22952 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 15:49:51,035 INFO 22924 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 15:49:51,035 INFO 22924 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 15:49:51,035 INFO 22924 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:32:04,256 INFO 24056 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:32:04,256 INFO 24056 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:32:04,256 INFO 24056 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:32:06,291 INFO 7836 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:32:06,291 INFO 7836 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:32:06,291 INFO 7836 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:32:47,877 INFO 24240 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:32:47,877 INFO 24240 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:32:47,877 INFO 24240 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:36:15,737 INFO 17672 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:36:15,737 INFO 17672 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:36:15,737 INFO 17672 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:37:12,644 INFO 20060 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:37:12,644 INFO 20060 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:37:12,644 INFO 20060 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:37:44,146 INFO 21248 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:37:44,146 INFO 21248 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:37:44,146 INFO 21248 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:42:14,785 INFO 12048 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:42:14,785 INFO 12048 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:42:14,785 INFO 12048 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:42:16,443 INFO 20396 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:42:16,443 INFO 20396 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:42:16,443 INFO 20396 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:43:09,863 INFO 15856 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:43:09,863 INFO 15856 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:43:09,863 INFO 15856 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-11-06 17:46:11,876 INFO 22940 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-multipart@2.10.3@egg-multipart\app\schedule\clean_tmpdir.js
+2020-11-06 17:46:11,876 INFO 22940 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-11-06 17:46:11,876 INFO 22940 [egg-schedule]: register schedule C:\Users\12552\Desktop\musicCloude\myegg1\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js

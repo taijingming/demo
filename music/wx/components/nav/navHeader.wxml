@@ -1,0 +1,11 @@
+<!--components/nav/navHeader.wxml-->
+  <!-- 推介歌曲头部 -->
+  <view class="recommend">
+    <!-- <view class="re-title">
+      <text>{{title}}</text>
+    </view> -->
+    <view class="recommend-conyent">
+      <text class="re-nav">{{nav}}</text>
+      <text class="more">查看更多</text>
+    </view>
+  </view>

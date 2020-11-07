@@ -1,0 +1,57 @@
+/* pages/login/login.wxss */
+.from{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200rpx;
+}
+.from>input{
+  border-radius: 10rpx;
+  width: 500rpx;
+  padding: 15rpx 20rpx;
+  margin-bottom: 15rpx;
+  border: 1px solid #ccc;
+}
+.goregister{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15rpx 0;
+  font-size: 26rpx;
+  color: blue;
+}
+.zanwei{
+  color: black;
+}
+.registerbtn{
+  margin: 20rpx auto;
+  width: 540rpx !important;
+  color: #fff;
+  background-color: rgb(209, 78, 71);
+}
+.success{
+  border: 1px solid #ccc !important; 
+}
+.fail{
+  border: 1px solid #f00 !important;
+}
+.from .verif{
+  margin: 0 auto;
+  border-radius: 10rpx;
+  width: 200rpx;
+  padding: 15rpx 20rpx;
+  margin-bottom: 15rpx;
+  border: 1px solid #ccc;
+}
+.verifbox{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.getverif{
+  border-radius: 5rpx;
+  padding: 15rpx 30rpx;
+  color: #fff;
+  background-color: rgb(211, 76, 69);
+}

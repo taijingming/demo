@@ -1,0 +1,26 @@
+/* pages/view/view.wxss */
+.lay {
+    width: 95%;
+    margin: 0 auto;
+}
+.searhinput{
+    padding: 10rpx 15rpx;
+    border: 1rpx solid #ccc;
+    border-radius: 10rpx;
+    text-align: center;
+    margin: 30rpx auto;
+}
+.searchItem{
+    margin: 40rpx ;
+}
+.searchItem:first-child{
+    color: red;
+}
+.index{
+    width: 40rpx;
+    margin:  0 30rpx;
+}
+.auther{
+    font-size: 24rpx;
+    color: rgb(170, 169, 169);
+}

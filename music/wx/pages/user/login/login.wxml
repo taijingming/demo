@@ -1,0 +1,24 @@
+<!--pages/login/login.wxml-->
+<view class="loginBox">
+  <view class="from">
+    <input type="text" name="" id="user"
+      bindinput="getInputValue"
+    data-type="user"
+     placeholder="user"  />
+    <input type="password" name="" id="password"
+    data-type="password" 
+    bindinput="getInputValue"
+    placeholder="password" />
+    <view class="verifbox">
+       <input class="verif" type="text" id="inputverif" bindinput="getInputValue" placeholder="verif" />
+       <view class="zanwei "></view>
+       <text bindtap="getverif" class="getverif">{{verif.text}}</text>
+    </view>
+    <view class="goregister">
+      <navigator  url="/pages/user/forgetpassword/forgetpassword">忘记密码</navigator>
+      <view class="zanwei"> <text>没有账号？</text></view>
+      <navigator url="/pages/user/regiset/regiset" class="myregister">去注册</navigator>
+    </view>
+    <button class="loginbtn" bindtap="login" >登录</button>
+  </view>
+</view>

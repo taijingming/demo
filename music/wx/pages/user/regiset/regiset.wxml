@@ -1,0 +1,20 @@
+<!--pages/regiset/regiset.wxml-->
+<view class="loginBox">
+  <view class="from">
+    <input type="text" name="" id="user" placeholder="user"  bindinput="getInputValue" />
+    <input type="password" name="" id="pwd1" placeholder="password"  bindinput="getInputValue" />
+    <input type="password" class="{{agin}}" name="" id="pwd2" placeholder="password"  bindblur="getInputValue"
+    bindinput="judgeInput"  />
+    <view class="verifbox">
+       <input class="verif" type="text" placeholder="verif" id="inputverif" bindinput="getInputValue" />
+       <view class="zanwei "></view>
+       <text bindtap="getverif" class="getverif">{{verif.text}}</text>
+    </view>
+    <view class="goregister"> 
+      <view class="zanwei">已有账号?</view>
+      <navigator url="/pages/user/login/login" class="myregister">去登录</navigator>
+    </view>
+    <button class="registerbtn" bindtap="register">注册</button>
+  </view>
+</view> 
+

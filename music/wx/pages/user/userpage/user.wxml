@@ -1,0 +1,61 @@
+<!--pages/user/user.wxml-->
+<view >
+  <!-- 用户信息 -->
+  <view class="user-top">
+    <view class="userinfo">
+      <image src="/static/image/0.jpg"></image>
+      <view wx:if="{{isLogin}}" bindtap="edior">
+        <text >{{isLogin}}</text>
+        <text>编辑</text>
+      </view>
+      <text wx:else bindtap="toLogin">点击登录</text>
+    </view>
+    <!-- 会员 -->
+    <view class="vip">
+      <view class="vip-top">
+        <view>
+          <text> zhan</text>
+          <text>音乐会员</text>
+        </view>
+        <view>
+          <text class="toVip">立即开通</text>
+        </view>
+      </view>
+      <vip-content>
+        <text>开通会员听歌</text>
+      </vip-content>
+    </view>
+  </view>
+  <view class="user-content">
+    <view class="contenNav">
+      <view>
+        <text>我的信息</text>
+        <text>我的信息</text>
+      </view>
+      <view>
+        <text>我的信息</text>
+        <text>我的信息</text>
+      </view>
+      <view>
+        <text>我的信息</text>
+        <text>我的信息</text>
+      </view>
+      <view>
+        <text>我的信息</text>
+        <text>我的信息</text>
+      </view>
+    </view>
+    <view class="userSong list">
+      <text>我的音乐</text>
+      <text>&gt;</text>
+    </view>
+    <view class="shoucang list">
+      <text>我的收藏</text>
+      <text>&gt;</text>
+    </view>
+    <view class="diantai list">
+      <text>我的电台</text>
+      <text>&gt;</text>
+    </view>
+  </view>
+</view>

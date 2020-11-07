@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/view/view",
+    "pages/index/index",
+    "pages/user/regiset/regiset",
+    "pages/user/userpage/user",
+    "pages/user/login/login",
+    "pages/user/forgetpassword/forgetpassword"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#d43c33",
+    "navigationBarTitleText": "云音乐",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/static/image/home.png",
+        "selectedIconPath": "/static/image/home1.png"
+      },
+      {
+        "pagePath": "pages/view/view",
+        "text": "搜索歌曲",
+        "iconPath": "/static/image/视频.png",
+        "selectedIconPath": "/static/image/视频1.png"
+      },
+      {
+        "pagePath": "pages/user/userpage/user",
+        "text": "个人中心",
+        "iconPath": "/static/image/个人中心2.png",
+        "selectedIconPath": "/static/image/个人中心1.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

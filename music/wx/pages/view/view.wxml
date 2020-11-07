@@ -1,0 +1,26 @@
+<view class="lay search-box">
+    <input class='searhinput' type="text" placeholder="搜索 歌曲" 
+        bindfocus="focus1" bindblur="blur1"
+        confirm-type="search"
+        value="" bindchange="inputChange"
+      />
+</view>
+<view>
+    <block class="lay search-body">
+        <view class="title">热搜榜</view>
+        <block wx-if="{{noFocus}}">
+            <view class="searchItem" wx:for="{{hotSearch}}" wx:key="index">
+                <text class="index">{{index+1}}</text>
+                <text>{{item.first}}</text>
+            </view>
+        </block>
+        <block wx-else>
+            <view class="searchItem" wx:for="{{searchList}}" wx:key="index">
+                <text class="index">{{item.name}}</text>
+
+                <text class="auther">---{{item.artists[0].name}}</text>
+            </view>
+        </block>
+
+    </block>
+</view>
